@@ -2,8 +2,8 @@
 Walmart Sales Analysis SQL Script
 This repository contains a comprehensive SQL script for analyzing Walmart sales data. The script creates a database and a sales table, performs data cleaning, and includes a series of SQL queries to extract meaningful insights about sales performance, customer behavior, and product performance.
 
-Key Features:
-Database and Table Creation:
+# Key Features:
+# Database and Table Creation:
 
 The script begins by creating a database walmartSales and a sales table with detailed columns to capture essential transactional data, including invoice ID, branch, city, customer type, product line, pricing, and more.
 Data Cleaning and Enhancement:
